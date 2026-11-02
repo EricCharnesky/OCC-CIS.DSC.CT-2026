@@ -9,8 +9,6 @@
 
 ## Major Requirements
 
-\+ indicates a new course
-
 | Course Code	| Description	| Credits |
 |-------------|-------------|---------:|
 | CIS 1200	| Introduction to Database Systems	| 4 |
